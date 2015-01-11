@@ -8,5 +8,10 @@ warmed up this makes the site exceptionally quick (on a lowly
 Core2Duo Celeron Ultra-Mobile CPU)
 
 Sources:
-(http://pcsintjoris.mwp.nl/SintJoriscollege/Leerlingen/Roosters/Roosterwijzigingen/tabid/579/Default.aspx "Time-table")
-(http://pcsintjoris.mwp.nl/SintJoriscollege/Leerlingen/Roosters/Huidigrooster/tabid/573/Default.aspx "Time-table changes")
+* [Time-table](http://pcsintjoris.mwp.nl/SintJoriscollege/Leerlingen/Roosters/Roosterwijzigingen/tabid/579/Default.aspx)
+* [Time-table changes](http://pcsintjoris.mwp.nl/SintJoriscollege/Leerlingen/Roosters/Huidigrooster/tabid/573/Default.aspx)
+
+Requires
+* PHP 5
+* SimpleXML (origin pages can't be parsed as clean XML)
+* memcached
